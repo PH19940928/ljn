@@ -1,3 +1,9 @@
 asfgjkwahqoi
+<<<<<<< HEAD
 asgdhkwqj
-lol  //B3 GAI
+KLKJ
+lol  // B3 GAI
+=======
+asgdhkwqj  // C4
+lol
+>>>>>>> C4
